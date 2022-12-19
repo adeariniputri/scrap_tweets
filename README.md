@@ -1,2 +1,2 @@
 # scrap_tweets
-Scrapping Tweets 
+Scrapping Tweets menggunakan  Tweepy
